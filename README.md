@@ -1,5 +1,7 @@
 # fastboot4go
 
+[中文](README.md) | [English](README_EN.md)
+
 `fastboot4go` 是一个基于 Go 的 fastboot USB 实现，仓库里提供了命令行工具 `gofastboot`，可直接对处于 fastboot 模式的 Android 设备执行常见操作。
 
 当前 CLI 支持：
